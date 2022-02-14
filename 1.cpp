@@ -4,6 +4,8 @@ void fun() {
     cout << "hello world!" <<endl;
 }
 
+
+
 int main() {
 
     fun();
