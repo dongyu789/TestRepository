@@ -3,7 +3,7 @@ using namespace std;
 void fun() {
     cout << "hello world!" <<endl;
 }
-
+//我是test2新增
 class Solution {
 public:
     void print();
@@ -15,6 +15,7 @@ void Solution::print() {
     cout << "hello i am Solution::print" <<endl;
 }
 
+//我是test2新增
 
 
 int main() {
