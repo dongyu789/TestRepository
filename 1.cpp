@@ -4,12 +4,9 @@ void fun() {
     cout << "hello world!" <<endl;
 }
 
-class Solution {
-public:
-    void print();
-};
+int main() {
 
-void Solution::print() {
-    cout << "hello i am Solution::print" <<endl;
+    fun();
+
+    return 0;
 }
-
